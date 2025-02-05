@@ -27,22 +27,6 @@ Atualmente, estou em busca de novas oportunidades para aplicar minhas habilidade
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 📌 Total de Commits
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/seu-usuario?style=for-the-badge&color=blue)
-
----
 
 ## 🎯 Sobre Mim
 Além da programação, gosto de explorar novas tecnologias, aprender sobre inovações no mundo da tecnologia e contribuir para a comunidade open-source. Acredito no aprendizado contínuo e na troca de conhecimento como forma de evolução profissional e pessoal.
