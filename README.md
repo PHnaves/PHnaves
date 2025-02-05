@@ -1,46 +1,54 @@
-# Olá, sou [Pedro Naves] 👨‍💻
+## 👨‍💻 Olá, sou **Pedro Naves**
 
-Bem-vindo ao meu perfil! Sou um(a) desenvolvedor(a) apaixonado(a) por criar soluções tecnológicas inovadoras. Com experiência em diversas linguagens e frameworks, estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos impactantes. 🚀
-
-## 💼 Sobre Mim
-Minha jornada na área de tecnologia começou no ensino médio, onde tive meu primeiro contato com o universo da programação e desenvolvimento de sistemas por meio do curso técnico integrado. Ao concluir o ensino médio, me formei como Técnico em Desenvolvimento de Sistemas. Além disso, também possuo formação técnica na mesma área pela ETEC de Taboão da Serra, o que me proporcionou uma base sólida para dar continuidade à minha carreira na tecnologia.
-
-Atualmente, estou em busca de uma oportunidade de trabalho ou estágio, com o objetivo de aprimorar minhas habilidades práticas, adquirir conhecimento sobre o ambiente corporativo e entender como as tecnologias são aplicadas no mercado de trabalho. Estou comprometido com meu desenvolvimento contínuo e ansioso para contribuir e aprender com uma equipe profissional, visando meu crescimento tanto técnico quanto pessoal.
-
-## 🚀 Habilidades Técnicas Basicas
-- **Linguagens de Programação**: Python, JavaScript, TypeScript
-- **Frameworks & Bibliotecas**: Node.js, Ionic
-- **Desenvolvimento Front-End**: HTML, CSS, Bootstrap, Tailwind
-- **Ferramentas & DevOps**: Git
-- **Bancos de Dados**: MySQL
-- **Metodologias**: Scrum
-
-## 🏆 Projetos em Destaque
-Aqui estão alguns dos meus projetos mais significativos. Fique à vontade para explorar!
-
-- [**Projeto 1**](https://github.com/seuusuario/projeto1)  
-  Uma aplicação web full-stack para gerenciamento de tarefas, desenvolvida com **React** e **Node.js**, integrada a um banco de dados **MongoDB**.
-
-- [**Projeto 2**](https://github.com/seuusuario/projeto2)  
-  Um sistema de recomendação utilizando **Machine Learning** para sugerir conteúdos personalizados a usuários, com **Python** e **Scikit-Learn**.
-
-- [**Projeto 3**](https://github.com/seuusuario/projeto3)  
-  Automação de processos empresariais com **Python** e **Selenium**, melhorando a eficiência de tarefas repetitivas.
-
-## 📈 Contribuições Open Source
-Eu sou um(a) entusiasta de **open-source** e sempre tento contribuir para a comunidade. Alguns dos meus contributos:
-
-- [**Projeto A**](https://github.com/projetoA): Correções e melhorias no módulo de autenticação.
-- [**Projeto B**](https://github.com/projetoB): Adição de novos recursos e otimizações de performance.
-
-## 🏅 Estatísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
-</div>
-
-## 💬 Sobre Mim
-Quando não estou programando, gosto de [hobbies ou interesses pessoais, como leitura, viagens, esportes, etc.]. Acredito na importância de equilibrar vida profissional e pessoal, sempre buscando evoluir em todos os aspectos da vida.
+Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de desafios para aprimorar minhas habilidades e criar soluções impactantes. 🚀
 
 ---
 
-**Obrigado por visitar meu perfil!** Se você tiver alguma dúvida ou deseja colaborar em projetos, fique à vontade para me enviar uma mensagem. Vamos criar algo incrível juntos! 💬
+## 💼 Sobre Mim
+Minha jornada na tecnologia começou no ensino médio, onde tive meu primeiro contato com o desenvolvimento de sistemas por meio de um curso técnico integrado. Desde então, venho aprimorando minhas habilidades, me formando como **Técnico em Desenvolvimento de Sistemas** e aprofundando meus conhecimentos na área.
+
+Atualmente, estou em busca de novas oportunidades para aplicar minhas habilidades em um ambiente profissional e continuar meu crescimento técnico e pessoal.
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 📌 Total de Commits
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/seu-usuario?style=for-the-badge&color=blue)
+
+---
+
+## 🎯 Sobre Mim
+Além da programação, gosto de explorar novas tecnologias, aprender sobre inovações no mundo da tecnologia e contribuir para a comunidade open-source. Acredito no aprendizado contínuo e na troca de conhecimento como forma de evolução profissional e pessoal.
+
+Se quiser bater um papo ou colaborar em projetos, sinta-se à vontade para entrar em contato! 💬
+
+📫 **E-mail:** [seu-email@example.com](mailto:seu-email@example.com)  
+🔗 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+
