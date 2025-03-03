@@ -1,7 +1,3 @@
-Aqui está a versão melhorada do seu perfil:  
-
----
-
 ## 👨‍💻 Olá, sou **Pedro Naves**  
 
 Bem-vindo ao meu perfil! Sou um desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e design, sempre buscando criar soluções impactantes e eficientes. 🚀  
@@ -38,5 +34,5 @@ Além da programação, gosto de aprimorar meus conhecimentos em relação ao me
 
 Se quiser trocar uma ideia ou colaborar em projetos, sinta-se à vontade para entrar em contato! 💬  
 
-📫 **E-mail:** [seu-email@example.com](mailto:pnaves001@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/phnaves)  
+📫 **E-mail:** [pnaves001@gmail.com](mailto:pnaves001@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/phnaves](https://www.linkedin.com/in/phnaves)  
