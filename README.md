@@ -14,7 +14,6 @@ Atualmente, busco oportunidades para aplicar minhas habilidades em projetos desa
 
 ## 🚀 Tecnologias & Ferramentas  
 
-[![My Skills]
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,git,github,mysql,html,css,tailwind,bootstrap,figma" />
