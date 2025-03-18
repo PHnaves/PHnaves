@@ -17,7 +17,7 @@ Atualmente, busco oportunidades para aplicar minhas habilidades em projetos desa
 [![My Skills]
 <p align="center">
   <a href="https://skillicons.dev">
-    (https://skillicons.dev/icons?i=php,laravel,git,github,mysql,html,css,tailwind,bootstrap,figma&perline=3)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=php,laravel,git,github,mysql,html,css,tailwind,bootstrap,figma&perline=3)](https://skillicons.dev)
   </a>
 </p>
 
