@@ -16,7 +16,7 @@ Atualmente, busco oportunidades para aplicar minhas habilidades em projetos desa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,php,laravel,git,github,mysql,html,css,tailwind,bootstrap,figma" />
+    <img src="https://skillicons.dev/icons?i=java,idea,php,laravel,git,github,mysql,mongodb,html,css,tailwind,bootstrap,figma" />
   </a>
 </p>
 
